@@ -1,5 +1,5 @@
 # E-Commerce-EDA_Case-Study
-EDA on UK-based online retail dataset: analyze all-occasion gift sales. Explore numeric variables with plots, handle missing values and duplicates. Derive insights on customer orders, spending, trends per month, day, hour, country. Visualize with regression plots, bar charts. Gain business insights.
+EDA on UK-based online retail dataset: analyzed all-occasion gift sales. Explored numeric variables with plots, handled missing values and duplicates. Derived insights on customer orders, spending, trends per month, day, hour, country. Visualized with regression plots, bar charts. Gained business insights.
 
 ## Tools and Technology used:
 [![Classification](https://img.shields.io/badge/-Classification-f5841f?style=for-the-badge)](https://www.javatpoint.com/classification-algorithm-in-machine-learning)
